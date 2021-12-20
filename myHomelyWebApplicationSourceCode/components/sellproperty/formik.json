@@ -1,0 +1,180 @@
+{
+  "owners": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "PostalCode": "",
+  "StreetAddress": "",
+  "Unit": "",
+  "PropertyType": "",
+  "YearBuilt": "",
+  "PropertyTax": "",
+  "PropertyTaxPayment": "Monthly",
+  "HouseSize": {
+    "width": "",
+    "length": "",
+    "unit": "Square Meter"
+  },
+  "LivingArea": {
+    "width": "",
+    "length": "",
+    "unit": "Square Meter"
+  },
+  "LotSize": {
+    "width": "",
+    "length": "",
+    "unit": "Square Meter"
+  },
+  "Stories": "Single",
+  "Bedrooms": "1",
+  "Bathrooms": "1",
+  "GarageSpaces": "0",
+  "ParkingSpaces": "0",
+  "Basement": false,
+
+  "Kitchen": {
+    "Options": {
+      "Butlers Kitchen": false,
+      "Extended Pantry": false,
+      "Granite Countertop": false,
+      "Premium Rangehood": false,
+      "Premium Kitchen Cabinets": false,
+      "Stainless Steel Multi-door Refrigerator": false,
+      "Stainless Steel Dishwasher": false,
+      "Wine Refrigerator": false,
+      "Wall Mount Oven": false,
+      "Wall Mount Microwave": false,
+      "Water Purifier": false,
+      "Sink Drain Cleaner Motor": false
+    },
+    "Others": ""
+  },
+  "Flooring": {
+    "Options": {
+      "Hardwood Flooring": false,
+      "Laminate Flooring": false,
+      "Carpet Flooring": false,
+      "Vinyl": false,
+      "Tiles": false,
+      "Ceramic": false
+    },
+    "Others": ""
+  },
+  "Electricity & Lighting": {
+    "Options": {
+      "200 Amps Electric Wiring": false,
+      "Smart Home Lightings": false,
+      "Premium Fixers": false,
+      "Chandelier": false,
+      "Interior Pot Lights": false,
+      "Premium Switches": false,
+      "Sump Pump": false
+    },
+    "Others": ""
+  },
+  "Heating & Cooling": {
+    "Options": {
+      "Central Air Conditioner": false,
+      "Reverse Ceiling Fans": false,
+      "Central Heating": false,
+      "Zonal Heating": false,
+      "Electric/Natural Gas Fireplace": false
+    },
+    "Others": ""
+  },
+  "Doors & Windows": {
+    "Options": {
+      "Custom Interior Doors": false,
+      "Custom Main Door": false,
+      "Drapery or Curtains": false,
+      "Roman Shades": false,
+      "Californian Shutters": false,
+      "Wood Blinds or Shades": false,
+      "Roller or Skate Shades": false,
+      "Sheer Shades": false
+    },
+    "Others": ""
+  },
+  "Exterior Features": {
+    "Options": {
+      "Brick/Vinyl/Wood/Stone/Stucco Walls": false,
+      "Exterior Pot Lights": false,
+      "Frontyard Garden": false,
+      "Balcony": false,
+      "Boat Slip": false,
+      "Backyard Garden": false,
+      "Backyard Playground": false,
+      "Backyard Swimming Pool": false,
+      "Backyard Jacuzzi or Spa": false,
+      "BBQ or Firepit or Campfire": false,
+      "Fountain or Water features": false,
+      "Outdoor Kitchen": false,
+      "Outdoor Mudroom": false,
+      "Canopy or Pergola": false,
+      "Swing or Hammock": false,
+      "Dining Area": false,
+      "Outdoor Bar": false,
+      "Outdoor Clubhouse": false,
+      "Garden Shed or Storage": false
+    },
+    "Others": ""
+  },
+  "Roof & Foundation": {
+    "Options": {
+      "Shingle": false,
+      "Concrete": false,
+      "Slate": false,
+      "Tiles": false,
+      "Raised": false,
+      "Slab": false,
+      "Permanent": false
+    },
+    "Others": ""
+  },
+  "Other Features": {
+    "Options": {
+      "High Ceilings (10 – 12 feet)": false,
+      "Bar Area": false,
+      "Recreational or Entertainment Area": false,
+      "Movie Theater or Media Room": false,
+      "Home Gym or Exercise Room": false,
+      "Solar Tiles": false,
+      "Back/front Gas and Water Connection": false,
+      "Tennis or Squash or Basketball Court": false,
+      "Detached Garage": false,
+      "Guest Suite or Detached Guestroom": false,
+      "Visitors Parking": false,
+      "Smart Home System": false,
+      "Smart Thermostat": false,
+      "Smart Door": false,
+      "Smart Garage Door": false,
+      "Smart Lighting Exterior": false,
+      "Smart Sound System": false
+    },
+    "Others": ""
+  },
+  "PropertyDescription": "",
+  "PriceLock": false,
+  "AskingPrice": 0,
+  "PhotographyServices": true,
+  "PhotographyPackage": {
+    "type": "Starter",
+    "price": 150,
+    "sqft": "1-999"
+  },
+  "MarketYourHome": {
+    "emailCampaign": false,
+    "socialMediaCampaign": false
+  },
+  "LegalServices": {
+    "representation": false
+  },
+  "HouseImages": [],
+  "HomeShowingDates": [],
+  "ExtraCareService": {
+    "Extra": false,
+    "Basic": false
+  }
+}

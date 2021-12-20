@@ -1,0 +1,317 @@
+[
+  {
+    "address": "777 Brockton Avenue",
+    "city": "Abington",
+    "state": "MA",
+    "zip": "2351",
+    "latitude": 61.385,
+    "longitude": -152.2683,
+    "price": "$259,800",
+    "beds": "4",
+    "baths": "3",
+    "sqft": "3,669",
+    "img": "/test1.jpg",
+    "imageArray": [
+      {
+        "image": "/test1.jpg"
+      },
+      {
+        "image": "/test1.jpg"
+      },
+      {
+        "image": "/test1.jpg"
+      },
+      {
+        "image": "/test1.jpg"
+      },
+      {
+        "image": "/test1.jpg"
+      }
+    ],
+    "dates": ["January 26, 2021", "January 27, 2021", "January 28, 2021"],
+    "id": "a723ad2b8aac5d213cf8c0e18c065840",
+    "seller": "/testseller.jpg",
+    "sellerName": "John Doe",
+    "sellerPosition": "Accountant"
+  },
+  {
+    "address": "30 Memorial Drive",
+    "city": "Avon",
+    "state": "MA",
+    "zip": "2322",
+    "latitude": 32.799,
+    "longitude": -86.8073,
+    "price": "$259,800",
+    "beds": "4",
+    "baths": "3",
+    "sqft": "3,669",
+    "img": "/test2.jpg",
+    "dates": ["January 26, 2021", "January 27, 2021", "January 28, 2021"],
+    "imageArray": [
+      {
+        "image": "/test2.jpg"
+      },
+      {
+        "image": "/test2.jpg"
+      },
+      {
+        "image": "/test2.jpg"
+      },
+      {
+        "image": "/test2.jpg"
+      },
+      {
+        "image": "/test2.jpg"
+      }
+    ],
+    "id": "a721bd254fe1951ef5b635693b6de383",
+    "seller": "/testseller.jpg",
+    "sellerName": "John Doe",
+    "sellerPosition": "Accountant"
+  },
+  {
+    "address": "250 Hartford Avenue",
+    "city": "Bellingham",
+    "state": "MA",
+    "zip": "2019",
+    "latitude": 34.9513,
+    "longitude": -92.3809,
+    "dates": ["January 26, 2021", "January 27, 2021", "January 28, 2021"],
+    "price": "$259,800",
+    "beds": "4",
+    "baths": "3",
+    "sqft": "3,669",
+    "img": "/test3.jpg",
+    "imageArray": [
+      {
+        "image": "/test3.jpg"
+      },
+      {
+        "image": "/test3.jpg"
+      },
+      {
+        "image": "/test3.jpg"
+      },
+      {
+        "image": "/test3.jpg"
+      },
+      {
+        "image": "/test3.jpg"
+      }
+    ],
+    "id": "e843b41ebd28e6664ddcdb3489d065f7",
+    "seller": "/testseller.jpg",
+    "sellerName": "John Doe",
+    "sellerPosition": "Accountant"
+  },
+  {
+    "address": "700 Oak Street",
+    "city": "Brockton",
+    "state": "MA",
+    "zip": "2301",
+    "latitude": 36.17,
+    "longitude": -119.7462,
+    "price": "$259,800",
+    "dates": ["January 26, 2021", "January 27, 2021", "January 28, 2021"],
+    "beds": "4",
+    "baths": "3",
+    "sqft": "3,669",
+    "img": "/test4.jpg",
+    "imageArray": [
+      {
+        "image": "/test4.jpg"
+      },
+      {
+        "image": "/test4.jpg"
+      },
+      {
+        "image": "/test4.jpg"
+      },
+      {
+        "image": "/test4.jpg"
+      },
+      {
+        "image": "/test4.jpg"
+      }
+    ],
+    "id": "290dae1df8aa1b96b6638afd7f0d6221",
+    "seller": "/testseller.jpg",
+    "sellerName": "John Doe",
+    "sellerPosition": "Accountant"
+  },
+  {
+    "address": "66-4 Parkhurst Rd",
+    "city": "Chelmsford",
+    "state": "MA",
+    "zip": "1824",
+    "latitude": 27.8333,
+    "longitude": -81.717,
+    "price": "$259,800",
+    "dates": ["January 26, 2021", "January 27, 2021", "January 28, 2021"],
+    "beds": "4",
+    "baths": "3",
+    "sqft": "3,669",
+    "img": "/test5.jpg",
+    "imageArray": [
+      {
+        "image": "/test5.jpg"
+      },
+      {
+        "image": "/test5.jpg"
+      },
+      {
+        "image": "/test5.jpg"
+      },
+      {
+        "image": "/test5.jpg"
+      },
+      {
+        "image": "/test5.jpg"
+      }
+    ],
+    "id": "0696e72cf954a652e411ea8bef11c069",
+    "seller": "/testseller.jpg",
+    "sellerName": "John Doe",
+    "sellerPosition": "Accountant"
+  },
+  {
+    "address": "591 Memorial Dr",
+    "city": "Chicopee",
+    "state": "MA",
+    "zip": "1020",
+    "latitude": 42.0046,
+    "longitude": -93.214,
+    "dates": ["January 26, 2021", "January 27, 2021", "January 28, 2021"],
+    "price": "$259,800",
+    "beds": "4",
+    "baths": "3",
+    "sqft": "3,669",
+    "img": "/test6.jpg",
+    "imageArray": [
+      {
+        "image": "/test6.jpg"
+      },
+      {
+        "image": "/test6.jpg"
+      },
+      {
+        "image": "/test6.jpg"
+      },
+      {
+        "image": "/test6.jpg"
+      },
+      {
+        "image": "/test6.jpg"
+      }
+    ],
+    "id": "98e3a9f7bfe9e9996906ea937e4a9de5",
+    "seller": "/testseller.jpg",
+    "sellerName": "John Doe",
+    "sellerPosition": "Accountant"
+  },
+  {
+    "address": "55 Brooksby Village Way",
+    "city": "Danvers",
+    "state": "MA",
+    "zip": "1923",
+    "latitude": 40.3363,
+    "dates": ["January 26, 2021", "January 27, 2021", "January 28, 2021"],
+    "longitude": -89.0022,
+    "price": "$259,800",
+    "beds": "4",
+    "baths": "3",
+    "sqft": "3,669",
+    "img": "/test7.jpg",
+    "imageArray": [
+      {
+        "image": "/test7.jpg"
+      },
+      {
+        "image": "/test7.jpg"
+      },
+      {
+        "image": "/test7.jpg"
+      },
+      {
+        "image": "/test7.jpg"
+      },
+      {
+        "image": "/test7.jpg"
+      }
+    ],
+    "id": "b1af60d14e61ea3bb89068323312c8e9",
+    "seller": "/testseller.jpg",
+    "sellerName": "John Doe",
+    "sellerPosition": "Accountant"
+  },
+  {
+    "address": "137 Teaticket Hwy",
+    "city": "East Falmouth",
+    "state": "MA",
+    "zip": "2536",
+    "latitude": 31.1801,
+    "longitude": -91.8749,
+    "dates": ["January 26, 2021", "January 27, 2021", "January 28, 2021"],
+    "price": "$259,800",
+    "beds": "4",
+    "baths": "3",
+    "sqft": "3,669",
+    "img": "/test8.jpg",
+    "imageArray": [
+      {
+        "image": "/test8.jpg"
+      },
+      {
+        "image": "/test8.jpg"
+      },
+      {
+        "image": "/test8.jpg"
+      },
+      {
+        "image": "/test8.jpg"
+      },
+      {
+        "image": "/test8.jpg"
+      }
+    ],
+    "id": "dcd58adfed02142eb4c338f0b0558931",
+    "seller": "/testseller.jpg",
+    "sellerName": "John Doe",
+    "sellerPosition": "Accountant"
+  },
+  {
+    "address": "42 Fairhaven Commons Way",
+    "city": "Fairhaven",
+    "state": "MA",
+    "zip": "2719",
+    "latitude": 39.0724,
+    "longitude": -76.7902,
+    "price": "$259,800",
+    "dates": ["January 26, 2021", "January 27, 2021", "January 28, 2021"],
+    "beds": "4",
+    "baths": "3",
+    "sqft": "3,669",
+    "img": "/test9.jpg",
+    "imageArray": [
+      {
+        "image": "/test9.jpg"
+      },
+      {
+        "image": "/test9.jpg"
+      },
+      {
+        "image": "/test9.jpg"
+      },
+      {
+        "image": "/test9.jpg"
+      },
+      {
+        "image": "/test9.jpg"
+      }
+    ],
+    "id": "3f6cd54e99ce656a57bc55cb9b7208fd",
+    "seller": "/testseller.jpg",
+    "sellerName": "John Doe",
+    "sellerPosition": "Accountant"
+  }
+]

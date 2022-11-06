@@ -40,7 +40,7 @@
     "next": "^10.0.3",
     "node-fetch": "^2.6.1",
     "nodemailer": "^6.4.17",
-    "passport": "^0.4.1",
+    "passport": "^0.6.0",
     "pipedrive": "^10.6.0",
     "querystring": "^0.2.0",
     "react": "^17.0.1",

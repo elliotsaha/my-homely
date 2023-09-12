@@ -1,0 +1,6 @@
+*.RDS
+models/*.RDS
+deploy-myhomely-models/*.RDS
+deploy-myhomely-models/Data/*.RDS
+.ipynb_checkpoints
+__pycache__
